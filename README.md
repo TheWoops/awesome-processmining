@@ -19,6 +19,7 @@ What is Process Mining ? <br>
 *libraries that seem to be more advanced, preferential written in python*
 
 * [pm4py](https://github.com/pm4py/pm4py-source) - Python library that contains process mining alorithms for python
+* [pmlab](https://github.com/pmlab/pmlab-full) -  interactive programming environment for (exploratory) process mining 
 
 ## Tools
 *single implementations of certain process mining alorithms, that could help in certain fields of application*
@@ -30,4 +31,5 @@ What is Process Mining ? <br>
 *collection of nice process mining relevant jupyter notebooks*
 
 * [alpha miner implementation.ipynb](https://github.com/mehdi149/Learning-projects/blob/master/Alpha%20miner%20implementation.ipynb) - implementation of alpha miner alorithm, input is csv, visualization of petri-net output with graphviz and sankes plugins
+* [pmlab-exercises](https://github.com/pmlab/pmlab-exercises/tree/master/from-scratch) - code snippets for usage of PMLab library mentioned unter [Libraries](#libraries)
  
