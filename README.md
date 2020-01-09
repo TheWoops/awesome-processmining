@@ -23,9 +23,10 @@ Why Process Mining ? <br>
 * [Celonis](https://www.celonis.com) - company specialized on process mining founded 2011 in Munich, Germany <b>(market leader) </b>
 * [Lana Labs](https://lanalabs.com/) - company specialized on process mining founded 2016 in Berlin, Germany
 * [QPR Software](https://www.qpr.com/) - software & consulting company for business processes & trategy founded 1991, Helsinki, Finnland
+* [PAFnow](https://pafnow.com/) - company offers PM-software integrable into Power BI, founded 2014
 
 *partially commercial*
-* [Disco](https://www.fluxicon.com/) - small 2-person company dedicated to process mining, NS Eindhoven, Netherlands
+* [Disco](https://www.fluxicon.com/) - 2-person company dedicated to process mining, NS Eindhoven, Netherlands
 
 ## Libraries
 *libraries that seem to be more advanced, preferential written in python*
