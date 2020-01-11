@@ -13,20 +13,24 @@ Why Process Mining ? <br>
 
 ---
 - [Awesome Process-Mining](#process-mining)
+    - [Companies providing process mining software](#pm-companies)
     - [Libraries](#libraries)
     - [Tools](#tools)
+    - [Jupyter Notebooks](#jupyternotebooks)
+    - [Future Trends in Process Mining](#futuretrends)
 
 ---
-## Companies providing process mining software
+## PM-companies
 
-*commercial*
+*commercial process mining software*
 * [Celonis](https://www.celonis.com) - company specialized on process mining founded 2011 in Munich, Germany <b>(market leader) </b>
-* [Lana Labs](https://lanalabs.com/) - company specialized on process mining founded 2016 in Berlin, Germany
+* [Lana Labs](https://lanalabs.com/) - data can be integrated into their PM-software via open API, founded 2016 in Berlin, Germany
 * [QPR Software](https://www.qpr.com/) - software & consulting company for business processes & trategy founded 1991, Helsinki, Finnland
 * [PAFnow](https://pafnow.com/) - company offers PM-software integrable into Power BI, founded 2014
+* [ProcessGold](https://processgold.com) - company offers process mining tool Eindhoven, Netherlands
 
-*partially commercial*
-* [Disco](https://www.fluxicon.com/) - 2-person company dedicated to process mining, NS Eindhoven, Netherlands
+*partially commercial process mining software*
+* [Disco (fluxicon)](https://www.fluxicon.com/) - 2-person company dedicated to process mining, NS Eindhoven, Netherlands
 
 ## Libraries
 *libraries that seem to be more advanced, preferential written in python*
@@ -40,9 +44,13 @@ Why Process Mining ? <br>
 * [pyalpha](https://github.com/zhoudaxia233/pyalpha) - Python tool that generates a Petri net using the Alpha Algorithm from event logs
 * [csv2xes](https://github.com/rudeigerc/csv2xes) - python tool converting .csv file to .xes 
 
-## Jupyter Notebooks
+## JupyterNotebooks
 *collection of nice process mining relevant jupyter notebooks*
 
 * [alpha miner implementation.ipynb](https://github.com/mehdi149/Learning-projects/blob/master/Alpha%20miner%20implementation.ipynb) - implementation of alpha miner alorithm, input is csv, visualization of petri-net output with graphviz and sankes plugins
 * [pmlab-exercises](https://github.com/pmlab/pmlab-exercises/tree/master/from-scratch) - code snippets for usage of PMLab library mentioned unter [Libraries](#libraries)
  
+## FutureTrends
+*possible future developments in the area of process mining*
+
+* interation of Machine Learning Technologies to detect e.g. anomalies in process chains (e.g. fraud detection)
