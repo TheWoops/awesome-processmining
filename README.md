@@ -12,13 +12,18 @@ Why Process Mining ? <br>
 *→ Identifying hidden nodes and bottlenecks in business processes*
 
 ---
-- [Awesome Process-Mining](#process-mining)
-    - [Companies providing process mining software](#pm-companies)
-    - [Libraries](#libraries)
-    - [Tools](#tools)
-    - [Jupyter Notebooks](#jupyternotebooks)
-    - [Resources to learn more about PM](#furtherresources)
-    - [Future Trends in Process Mining](#futuretrends)
+
+#### You want to add some awesome links to this list?  - Nice!<br> 
+→ See [How-to-contribute](https://github.com/TheWoops/awesome-processmining/blob/master/CONTRIBUTING.md)
+
+---
+# [Process Mining Resources](#process-mining)
+- [Companies providing process mining software](#pm-companies)
+- [Libraries](#libraries)
+- [Tools](#tools)
+- [Jupyter Notebooks](#jupyternotebooks)
+- [Resources to learn more about PM](#furtherresources)
+- [Future Trends in Process Mining](#futuretrends)
 
 ---
 ## PM-companies
