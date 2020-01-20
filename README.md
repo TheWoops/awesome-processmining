@@ -39,11 +39,15 @@ Why Process Mining ? <br>
 *partially commercial process mining software*
 * [Disco (fluxicon)](https://www.fluxicon.com/) - 2-person company dedicated to process mining, NS Eindhoven, Netherlands
 
+
 ## Libraries
-*libraries that seem to be more advanced, preferential written in python*
+*libraries with free oder partially free editions*
 
 * [pm4py](https://github.com/pm4py/pm4py-source) - Python library that contains process mining alorithms for python
 * [pmlab](https://github.com/pmlab/pmlab-full) -  interactive programming environment for (exploratory) process mining 
+* [ProM](http://promtools.org/doku.php) - free extensible framework that supports a wide variety of process mining techniques in the form of plug-ins
+* [Apromore](https://apromore.org) - collaborative business process analytics platform, free community edition
+* [BupaR](https://bupar.net/) - handling and analysis of business process data with R
 
 ## Tools
 *single implementations of certain process mining alorithms, that could help in certain fields of application*
