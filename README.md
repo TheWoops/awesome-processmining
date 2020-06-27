@@ -36,7 +36,7 @@ Why Process Mining ? <br>
 * [QPR Software](https://www.qpr.com/) - software & consulting company for business processes & trategy founded 1991, Helsinki, Finnland
 * [PAFnow](https://pafnow.com/) - company offers PM-software integrable into Power BI, founded 2014
 * [UI Path ProcessMining](https://www.uipath.com/product/process-mining) 
-  * UI Path bought [ProcessGold](https://processgold.com) in 2020 - company offers process mining tool Eindhoven, Netherland
+  * UI Path acquired [ProcessGold](https://processgold.com) in 2020 - company offers process mining tool Eindhoven, Netherland
 * [ARIS Process Mining](https://www.softwareag.com/corporate/products/process/process_mining/default.html) - PM seems to only play a smaller part in the bigger ARIS suite that offers a wide variety of process modeling solutions (e.g. BPMN etc.)
 
 *partially commercial process mining software*
