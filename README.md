@@ -19,7 +19,7 @@ Why Process Mining ? <br>
 ---
 # Process Mining Resources
 - [Companies providing process mining software](#pm-companies)
-- [Libraries](#libraries)
+- [Open source libraries](#open-source-libraries)
 - [Tools](#tools)
 - [Jupyter Notebooks](#jupyternotebooks)
 - [Resources to learn more about PM](#furtherresources)
@@ -33,21 +33,23 @@ Why Process Mining ? <br>
 * [Lana Labs](https://lanalabs.com/) - data can be integrated into their PM-software via open API, founded 2016 in Berlin, Germany
 * [QPR Software](https://www.qpr.com/) - software & consulting company for business processes & trategy founded 1991, Helsinki, Finnland
 * [PAFnow](https://pafnow.com/) - company offers PM-software integrable into Power BI, founded 2014
-* [ProcessGold](https://processgold.com) - company offers process mining tool Eindhoven, Netherlands
+* [UI Path ProcessMining](https://www.uipath.com/product/process-mining) 
+  * UI Path bought [ProcessGold](https://processgold.com) in 2020 - company offers process mining tool Eindhoven, Netherland
 * [ARIS Process Mining](https://www.softwareag.com/corporate/products/process/process_mining/default.html) - PM seems to only play a smaller part in the bigger ARIS suite that offers a wide variety of process modeling solutions (e.g. BPMN etc.)
 
 *partially commercial process mining software*
 * [Disco (fluxicon)](https://www.fluxicon.com/) - 2-person company dedicated to process mining, NS Eindhoven, Netherlands
 
 
-## Libraries
+## Open-source-libraries
 *libraries with free oder partially free editions*
 
-* [pm4py](https://github.com/pm4py/pm4py-source) - Python library that contains process mining alorithms for python
-* [pmlab](https://github.com/pmlab/pmlab-full) -  interactive programming environment for (exploratory) process mining 
 * [ProM](http://promtools.org/doku.php) - free extensible framework that supports a wide variety of process mining techniques in the form of plug-ins
 * [Apromore](https://apromore.org) - collaborative business process analytics platform, free community edition
 * [BupaR](https://bupar.net/) - handling and analysis of business process data with R
+* [pm4py](https://github.com/pm4py/pm4py-source) - Python library that contains process mining alorithms for python
+* [pmlab](https://github.com/pmlab/pmlab-full) -  interactive programming environment for (exploratory) process mining
+* [RapidProM](https://github.com/rapidprom) - Process Mining as an extension for the data science framework RapidMiner
 
 ## Tools
 *single implementations of certain process mining alorithms, that could help in certain fields of application*
@@ -66,7 +68,7 @@ Why Process Mining ? <br>
 
 * [Process Mining Book](https://fluxicon.com/book/read/#)
 * [International Conference on Process Mining (ICPM)](https://icpmconference.org)
- 
+* [Video explaining how the very first PM-algorithm Alpha Miner works](https://www.futurelearn.com/courses/process-mining/0/steps/15636)
  
 ## FutureTrends
 *possible future developments in the area of process mining*
