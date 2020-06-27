@@ -12,7 +12,7 @@ What is Process Mining (PM) ? <br>
  * prediction: predicting e.g the state or point of time a future event has/occurs  
 
 Why Process Mining ? <br>
-*→ Identifying hidden nodes and bottlenecks in business processes*
+* → identifying hidden nodes and bottlenecks in business processes.
 ---
 
 #### You want to add some awesome links to this list?  - Nice!<br> 
