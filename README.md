@@ -38,6 +38,7 @@ Why Process Mining ? <br>
 * [UI Path ProcessMining](https://www.uipath.com/product/process-mining) 
   * UI Path acquired [ProcessGold](https://processgold.com) in 2020 - company offers process mining tool Eindhoven, Netherland
 * [ARIS Process Mining](https://www.softwareag.com/corporate/products/process/process_mining/default.html) - PM seems to only play a smaller part in the bigger ARIS suite that offers a wide variety of process modeling solutions (e.g. BPMN etc.)
+* [Signavio/SAP](https://www.signavio.com/process-mining/) - start-up focused on Process Intelligence, acquired by SAP in 01/2021 
 
 *partially commercial process mining software*
 * [Disco (fluxicon)](https://www.fluxicon.com/) - 2-person company dedicated to process mining, NS Eindhoven, Netherlands
