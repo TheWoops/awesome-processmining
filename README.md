@@ -33,17 +33,18 @@ Why Process Mining ? <br>
 *commercial process mining software*
 * [Celonis](https://www.celonis.com) - company specialized on process mining founded 2011 in Munich, Germany <b>(market leader) </b>
    * [PAFnow](https://pafnow.com/) - company offers PM-software integrable into Power BI, founded 2014, acquired by Celonis 03/2022
-* [Lana Labs](https://lanalabs.com/) - data can be integrated into their PM-software via open API, founded 2016 in Berlin, Germany
+* [Appian](https://appian.com/) - former Lana Labs, data can be integrated into their PM-software via open API, founded 2016 in Berlin, Germany
 * [QPR Software](https://www.qpr.com/) - software & consulting company for business processes & trategy founded 1991, Helsinki, Finnland
 
 * [UI Path ProcessMining](https://www.uipath.com/product/process-mining) 
   * UI Path acquired [ProcessGold](https://processgold.com) in 2020 - company offers process mining tool Eindhoven, Netherland
-* [ARIS Process Mining](https://www.softwareag.com/corporate/products/process/process_mining/default.html) - PM seems to only play a smaller part in the bigger ARIS suite that offers a wide variety of process modeling solutions (e.g. BPMN etc.)
-* [Signavio/SAP](https://www.signavio.com/process-mining/) - start-up focused on Process Intelligence, acquired by SAP in 01/2021 
+* [ARIS Process Mining](https://www.softwareag.com/de_de/platform/aris/process-mining.html) - ARIS belongs to Software AG, PM seems to only play a smaller part in the bigger ARIS suite that offers a wide variety of process modeling solutions (e.g. BPMN etc.)
+* [SAP Signavio](https://www.signavio.com/process-mining/) - start-up focused on Process Intelligence, acquired by SAP in 01/2021 
 
 *partially commercial process mining software*
-* [Disco (fluxicon)](https://www.fluxicon.com/) - 2-person company dedicated to process mining, NS Eindhoven, Netherlands
+* [Disco (Fluxicon)](https://www.fluxicon.com/) - 2-person company dedicated to process mining, NS Eindhoven, Netherlands
 
+💡 [Product Matrix for Process Mining Products](https://www2.everestgrp.com/reportaction/EGR-2021-38-R-4377/Marketing)
 
 ## Open-source-libraries
 *libraries with free oder partially free editions*
