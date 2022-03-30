@@ -32,9 +32,10 @@ Why Process Mining ? <br>
 
 *commercial process mining software*
 * [Celonis](https://www.celonis.com) - company specialized on process mining founded 2011 in Munich, Germany <b>(market leader) </b>
+   * [PAFnow](https://pafnow.com/) - company offers PM-software integrable into Power BI, founded 2014, acquired by Celonis 03/2022
 * [Lana Labs](https://lanalabs.com/) - data can be integrated into their PM-software via open API, founded 2016 in Berlin, Germany
 * [QPR Software](https://www.qpr.com/) - software & consulting company for business processes & trategy founded 1991, Helsinki, Finnland
-* [PAFnow](https://pafnow.com/) - company offers PM-software integrable into Power BI, founded 2014
+
 * [UI Path ProcessMining](https://www.uipath.com/product/process-mining) 
   * UI Path acquired [ProcessGold](https://processgold.com) in 2020 - company offers process mining tool Eindhoven, Netherland
 * [ARIS Process Mining](https://www.softwareag.com/corporate/products/process/process_mining/default.html) - PM seems to only play a smaller part in the bigger ARIS suite that offers a wide variety of process modeling solutions (e.g. BPMN etc.)
@@ -50,7 +51,7 @@ Why Process Mining ? <br>
 * [ProM](http://promtools.org/doku.php) - framework that supports a wide variety of process mining techniques in the form of plug-ins
 * [Apromore](https://apromore.org) - collaborative business process analytics platform, free community edition
 * [BupaR](https://bupar.net/) - handling and analysis of business process data with R
-* [pm4py](https://github.com/pm4py/pm4py-source) - Python library that contains process mining alorithms for python
+* [PM4Py](https://pm4py.fit.fraunhofer.de/) - Python library that contains process mining alorithms for python
 * [pmlab](https://github.com/pmlab/pmlab-full) -  interactive programming environment for (exploratory) process mining
 * [RapidProM](https://github.com/rapidprom) - Process Mining as an extension for the data science framework RapidMiner
 
