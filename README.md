@@ -15,7 +15,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * identifying hidden nodes and bottlenecks in business processes.
 
 ---
----
 # Gartner Magic Quadrant 2023 for Process Mining💡 
 
 💡 ![Gartner Process Mining 2023](2023-gartner-process-mining.jpg)
