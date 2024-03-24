@@ -16,7 +16,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 ---
-# ⏹️ Gartner Magic Quadrant for Process Mining Tools (as of Jan '23)
+# Gartner Magic Quadrant 2023 for Process Mining Tools 💡 
+
+💡 ![Gartner Process Mining 2023](2023-gartner-process-mining.jpg)
 
 1. **Celonis**
    * company specialized on process mining founded 2011 in Munich, Germany <b>(market leader) </b>
@@ -40,7 +42,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 17.  **Pegasystems**
 18. **Fluxicon** (Disco)
 
-💡 ![Gartner Process Mining 2023](2023-gartner-process-mining.jpg)
 
 ## Open-source-libraries
 *libraries with free oder partially free editions*
