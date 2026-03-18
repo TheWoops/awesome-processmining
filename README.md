@@ -51,6 +51,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [PM4Py](https://pm4py.fit.fraunhofer.de/) - Python library that contains process mining alorithms for python
 * [pmlab](https://github.com/pmlab/pmlab-full) -  interactive programming environment for (exploratory) process mining
 * [RapidProM](https://github.com/rapidprom) - Process Mining as an extension for the data science framework RapidMiner
+* [ObjektViz](https://github.com/mamiksik/ObjektViz) - Library to visualize and interact with object-centric process models
 
 ## Tools
 *single implementations of certain process mining alorithms, that could help in certain fields of application*
