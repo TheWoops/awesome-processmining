@@ -52,6 +52,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [pmlab](https://github.com/pmlab/pmlab-full) -  interactive programming environment for (exploratory) process mining
 * [RapidProM](https://github.com/rapidprom) - Process Mining as an extension for the data science framework RapidMiner
 
+## Commercial-platforms
+*commercial process mining platforms, mostly browser-based*
+
+* [ProcessMind](https://processmind.com/) - browser-based platform that combines process mining, BPMN 2.0 modelling and what-if simulation in one workspace, with a free plan
+
 ## Tools
 *single implementations of certain process mining alorithms, that could help in certain fields of application*
 
